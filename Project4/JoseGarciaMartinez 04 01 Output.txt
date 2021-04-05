@@ -1,0 +1,7 @@
+points             words
+
+0           insulation
+0           CSCI 1350
+0           artificial
+0           intelligence
+Total is:   0
