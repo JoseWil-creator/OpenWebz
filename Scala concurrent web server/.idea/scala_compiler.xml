@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="My Scalatra Web App,cs39acspring2020assignment03-josewil-creator_9813" />
+  </component>
+</project>

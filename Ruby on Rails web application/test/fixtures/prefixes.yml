@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  prefix: CS
+  created_at: <%= Time.zone.now %>
+  updated_at: <%= Time.zone.now %>
+
+two:
+  prefix: MTH
+  created_at: <%= Time.zone.now %>
+  updated_at: <%= Time.zone.now %>

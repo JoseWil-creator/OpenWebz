@@ -1,0 +1,32 @@
+<div id="<%= dom_id section %>">
+  <p>
+    <strong>Crn:</strong>
+    <%= section.Crn %>
+  </p>
+
+  <p>
+    <strong>Course:</strong>
+    <% if section.course != nil %>
+       <%= section.course.name%>
+    <% else %>
+       <%= "Unknown name!" %>
+    <% end%>
+  </p>
+  <p>
+    <strong>Semester:</strong>
+    <% if section.semester != nil %>
+       <%=section.semester.semester%>
+    <% else %>
+       <%= "Unknown semester!" %>
+    <% end%>
+  </p>
+    <p>
+            <strong>Students:</strong>
+            <%counter = 1%>
+            <% section.students.each do |student| %>
+                <%= "#{counter}: #{student.student_name}, "%>
+                <%counter += 1%>
+            <% end %>
+        </p>
+
+</div>

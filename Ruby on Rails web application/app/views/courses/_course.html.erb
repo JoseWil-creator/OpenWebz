@@ -1,0 +1,29 @@
+<div id="<%= dom_id course %>">
+  <p>
+      <strong>Prefix:</strong>
+      <% if course.prefix != nil %>
+      <%=   course.prefix.prefix %>
+      <% else %>
+        <%= "None existent Prefix" %>
+      <% end %>
+    </p>
+
+  <p>
+    <strong>Number:</strong>
+    <%= course.number %>
+  </p>
+
+  <p>
+    <strong>Name:</strong>
+    <%= course.name %>
+  </p>
+    <p>
+      <strong>Sections:</strong>
+      <%counter = 1%>
+      <% course.sections.each do |section| %>
+          <%=" #{counter}: #{section.Crn}"%>
+          <%counter += 1%>
+       <% end %>
+    </p>
+
+</div>

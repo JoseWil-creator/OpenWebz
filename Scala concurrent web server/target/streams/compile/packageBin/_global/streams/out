@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\my-scalatra-web-app_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu\msudenver[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\edu\msudenver[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu\msudenver\cs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\edu\msudenver\cs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu\msudenver\cs\cs39ac[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\edu\msudenver\cs\cs39ac[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu\msudenver\cs\cs39ac\Blue.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\edu\msudenver\cs\cs39ac\Blue.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu\msudenver\cs\cs39ac\hello.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\edu\msudenver\cs\cs39ac\hello.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu\msudenver\cs\cs39ac\MyScalatraServlet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\edu\msudenver\cs\cs39ac\MyScalatraServlet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	layouts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\layouts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	layouts\html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\layouts\html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	layouts\html\default$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\layouts\html\default$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	layouts\html\default.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\layouts\html\default.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalatraBootstrap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\ScalatraBootstrap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	views[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\views[0m
+[0m[[0m[0mdebug[0m] [0m[0m	views\html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\views\html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	views\html\hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\views\html\hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	views\html\hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\jwill\Desktop\SPRING_2022\CS39AC\cs39acspring2020assignment03-JoseWil-creator\target\scala-2.13\classes\views\html\hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

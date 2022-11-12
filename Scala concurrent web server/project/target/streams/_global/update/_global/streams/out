@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/jwill/Desktop/SPRING_2022/CS39AC/cs39acspring2020assignment03-JoseWil-creator/project/"), "cs39acspring2020assignment03-josewil-creator-build")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/jwill/Desktop/SPRING_2022/CS39AC/cs39acspring2020assignment03-JoseWil-creator/project/"), "cs39acspring2020assignment03-josewil-creator-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

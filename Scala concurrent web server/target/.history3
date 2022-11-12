@@ -1,0 +1,52 @@
+1650256727416:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("C:/Users/jwill/AppData/Local/Temp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "C:/Program Files/JetBrains/IntelliJ IDEA Educational Edition 2021.3.3/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1650257020744:~jetty:start
+1650308928947:stop
+1650308964497:--stop
+1650309184562:~jetty:start
+1650309677940:?
+1650309710462:~jetty:start
+1650309748112:--stop-port 8080
+1650309758113:--stop-port n
+1650309835896:~jetty:start
+1650311245417:sbt --stop-port 8080
+1650311266042:sbtRebootNetwork
+1650312450038:~jetty:start
+1650312470684:jetty:stop
+1650315476995:netstat -a -n -o | find "8080"
+1650315491551:netstat -a -n -o | more
+1650315506477:netstat -a -n -o
+1650315512947:netstat -a
+1650315518789:netstat
+1650315526182:exit
+1650315617972:~jetty:start
+1650315646998:jetty:stop
+1650315683282:jetty:start
+1650315687839:jetty:stop
+1650315716765:exit
+1650323031468:~jetty:start
+1650364726010:~jetty:stop
+1650364738179:~jetty:start
+1650364814984:~jetty:stop
+1650365877006:exit
+1650443078544:~jetty:start
+1650448391207:~jetty:stop
+1650482849901:~jetty:start
+1650483177735:~jetty:stop
+1650483226276:~jetty:start
+1650777994843:~jetty:stop
+1650778135821:~jetty:start
+1650787486278:~jetty:stop
+1650787572484:~jetty:start
+1650787652579:~jetty:stop
+1650922147418:~jetty:start
+1650923542633:~jetty:stop
+1650923570861:~jetty:start
+1651044996952:~jetty:stop
+1651179721688:~jetty:start
+1651187012368:~jetty:stop
+1651526771291:~jetty:start
+1651566519455:~jett:stop
+1651566540043:~jetty:stop
+1651784844675:~jetty:start
+1651826584217:~jetty:stop
+1668294461324:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("C:/Users/jwill/AppData/Local/Temp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "C:/Program Files/JetBrains/IntelliJ IDEA Educational Edition 2022.2.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure

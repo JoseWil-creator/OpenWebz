@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  student_id: 1
+  email: MyString
+  phone: 1
+  address: MyString
+  created_at: <%= Time.zone.now %>
+  updated_at: <%= Time.zone.now %>
+
+two:
+  name: MyString
+  student_id: 1
+  email: MyString
+  phone: 1
+  address: MyString
+  created_at: <%= Time.zone.now %>
+  updated_at: <%= Time.zone.now %>
